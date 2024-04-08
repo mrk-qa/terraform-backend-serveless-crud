@@ -12,10 +12,9 @@
 - [terraform] - v 1.6.6
 - [hashicorp/aws] v 5.31.0
 
-## 📑 Project Structure
+## 📑 Project Structure Terraform
 
 ```
-aws
   |-- apigateway-crud.tf
   |-- authorizer.tf
   |-- cognito.tf

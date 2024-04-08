@@ -1,6 +1,6 @@
 # Terraform - AWS Backend Serveless - CRUD
 
-## 📐 Architecture
+## ✏️ Architecture
 
 <div align="center"><img width="500px"  src="design/design-architect.drawio.png">
 </div>

@@ -2,7 +2,7 @@
 
 ## 📐 Architecture
 
-<div align="center"><img width="800px"  src="design/design-architect.drawio.png">
+<div align="center"><img width="400px"  src="design/design-architect.drawio.png">
 </div>
 
 ------
